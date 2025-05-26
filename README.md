@@ -3,19 +3,19 @@ Design Mini Ecommerce Application
 
 Requirements
 Product
-Add Product
-Update Product
-Check Inventory
+1.Add Product
+2.Update Product
+3.Check Inventory
 Buyer
-Add Buyer
-Get Buyer
-Oder
-Add Order
-Get Order
+1.Add Buyer
+2.Get Buyer
+Order
+1.Add Order
+2.Get Order
 PinCode Serviceability
-Create PinCodeServiceability
-Check Is Source And Dest PinCode Matches ForPaymentType
+1.Create PinCodeServiceability
+2.Check Is Source And Dest PinCode Matches ForPaymentType
 Payment Type
-PREPAID
-COD ( Cash on Delivery)
-BOTH
+1.PREPAID
+2.COD ( Cash on Delivery)
+3.BOTH
